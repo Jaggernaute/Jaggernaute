@@ -62,6 +62,6 @@
 
 ## Other infos
 
-![Jaggernaute's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaggernaute&hide=prs,issues&show_icons=true&theme=dark)
+![Jaggernaute's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaggernaute&hide=prs,issues&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaggernaute&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
